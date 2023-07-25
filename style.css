@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+
+}
+
+h1{
+    color: #222222;
+    font: "Poppins Bold", sans-serif;
+    font-size: 27px;
+    text-rendering: optimizeLegibility;;
+}
+
+.name-header{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 100px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
