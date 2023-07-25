@@ -23,3 +23,15 @@ img {
     margin-right: auto;
     width: 40%;
   }
+
+  a{
+    color: black;
+  }
+
+  a:hover{
+    color: pink;
+  }
+
+  .image-bristol{
+    display: flex;
+  }
